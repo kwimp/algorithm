@@ -1,2 +1,2 @@
 # algorithm
-exercize code for algorithm study
+exercise code for algorithm study
